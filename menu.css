@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     background-image: url("./images/bg_photo.jpg");
+    background-color:  rgba(21, 26, 18, 0.216);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: scroll;
@@ -33,7 +34,7 @@ h1 {
     width: 100%; 
     text-align: center; 
     border-collapse: collapse;
-    background-color: #151a1237;
+    background-color: rgba(21, 26, 18, 0.216);
     color: #999e99;
 }
   
