@@ -1,12 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-image: url("./images/bg_photo.jpg");
+    background-image: url("./images/end.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: scroll;
     background-attachment: fixed;
     background-size: 100%;
+    backdrop-filter: blur(5px);
 }
 h1 {
     text-align: center;
@@ -33,8 +34,8 @@ h1 {
     width: 100%; 
     text-align: center; 
     border-collapse: collapse;
-    background-color: rgba(21, 26, 18, 0.216);
-    color: #999e99;
+    background-color: rgba(40, 40, 40, 0.414);
+    color: #a9a9a9;
 }
   
 .tbl a {
@@ -50,7 +51,7 @@ h1 {
 }
 .list-column a {
     text-decoration: none;
-    color: #999e99;
+    color: #9d9d9d;
 }
 .list-column {
     flex: 1 1 45%;

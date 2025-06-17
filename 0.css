@@ -34,7 +34,7 @@ main {
     gap: 20px;
     align-items: flex-start;
     font-size: 15px;
-    color: rgb(146, 170, 150);
+    color: rgb(223, 223, 223);
 
 }
 
@@ -48,18 +48,18 @@ main {
 main h1 {
     text-align: center;
     margin: 0 0 20px 0;
-    color: rgb(161, 186, 156);
-    background-color: rgba(60, 65, 60, 0.863);
+    color: rgb(174, 174, 174);
+    background-color: rgba(62, 62, 62, 0.863);
     font-size: 35px;
 }
 
 .sidebar a {
     text-decoration: none;
-    color: rgb(186, 212, 178);
+    color: rgb(214, 214, 214);
     font-size: 15px;
 }
 .sidebar h2 {
-    color: rgb(166, 182, 160);
+    color: rgb(184, 184, 184);
     font-size: 20px;
 }
 /* Стилі для секцій навігації */
@@ -69,7 +69,7 @@ main h1 {
 .toggle-btn {
     background: none;
     border: none;
-    color: rgb(186, 212, 178);
+    color: rgb(206, 206, 206);
     font-size: 16px;
     cursor: pointer;
     padding: 5px 0;
