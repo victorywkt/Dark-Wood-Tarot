@@ -37,6 +37,9 @@ main {
     color: rgb(223, 223, 223);
 
 }
+img {
+    filter: grayscale(50%);
+}
 
 .card-photo img {
     max-width: 200px;
