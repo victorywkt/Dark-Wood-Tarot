@@ -35,7 +35,6 @@ main {
     align-items: flex-start;
     font-size: 15px;
     color: #b79ea0;
-
 }
 img {
     filter: grayscale(50%);
